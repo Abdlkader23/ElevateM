@@ -1,0 +1,77 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+}
+
+a{
+  color: white;
+    text-decoration: none;
+
+}
+a:hover{
+    color: #eebc61;
+    text-decoration-color: #060606;
+}
+
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem
+
+}
+ img .logo{
+    width:50px ;
+}
+
+
+ul{
+    width: 60%;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+ul:hover{
+    color:rgb(242, 194, 106);
+}
+
+
+.Contant{
+    display: flex;
+    justify-content: space-between  ;
+    align-items: center;
+    width: 80%;
+    margin: auto    ;
+}
+.text h3   {
+    color: white;
+    width: 40%;
+    font-size: 50px;
+
+
+}
+.text p   {
+    color: white;
+    font-size: 20px;
+    width: 60%;
+
+}
+.imges img{
+    width: 100%;
+}
+
+
+
+.icons img{
+  width: 50px;
+margin-top: 50px;
+cursor: pointer;
+
+}

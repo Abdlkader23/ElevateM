@@ -1,0 +1,21 @@
+.div1{
+    background-color: #08323c;
+    visibility: visible;   
+     padding: 12rem 64px 0;
+    width: 50%;
+    background-color: #08323c;
+    color: #fff;
+      cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+  
+    right: 50rem;
+  }
+
+.icon{
+    left: 42rem;
+    position: relative;
+    transition-delay: 1s;
+   
+}
+
